@@ -1,8 +1,8 @@
 <h1>Thumbnails#generate</h1>
 <% @photos.each do |photo| %>
     <p>
-      <a href="<%= photo['photo_url'] %>" target="_blank">
-        <img src="<%= photo['thumbnail_url'] %>" />
+      <a href="<%= photo['url_l'] %>" target="_blank">
+        <img src="<%= photo['url_z'] %>" />
       </a>
     </p>
 <% end %>
