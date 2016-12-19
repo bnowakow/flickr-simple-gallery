@@ -48,4 +48,4 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'figaro', '~> 1.1.1'
-gem 'flickraw', '~> 0.9.9'
+gem 'flickrie'

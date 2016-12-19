@@ -25,3 +25,5 @@
 
 # RubyMine
 .idea
+.idea/*
+.idea/workspace.xml
