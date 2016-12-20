@@ -171,7 +171,7 @@ DEPENDENCIES
   byebug
   coffee-rails (~> 4.2)
   figaro (~> 1.1.1)
-  flickrie
+  flickrie (~> 1.6.1)
   jbuilder (~> 2.5)
   jquery-rails
   listen (~> 3.0.5)
